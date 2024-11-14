@@ -1,6 +1,6 @@
 # sta130
 
-My UofT STA130H1F Repo, includes all my projects, homework and notebooks related to the course
+My UofT STA130H1 F24 Repo, includes all my projects, homework and notebooks related to the course
 
 For ease of access:
 
